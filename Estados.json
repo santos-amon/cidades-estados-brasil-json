@@ -1,135 +1,135 @@
 [{
-	"ID": "1",
-	"Sigla": "AC",
-	"Nome": "Acre"
+	"id": "1",
+	"shortName": "AC",
+	"longName": "Acre"
 },
      {
-	"ID": "2",
-	"Sigla": "AL",
-	"Nome": "Alagoas"
+	"id": "2",
+	"shortName": "AL",
+	"longName": "Alagoas"
 },
      {
-	"ID": "3",
-	"Sigla": "AM",
-	"Nome": "Amazonas"
+	"id": "3",
+	"shortName": "AM",
+	"longName": "Amazonas"
 },
      {
-	"ID": "4",
-	"Sigla": "AP",
-	"Nome": "Amapá"
+	"id": "4",
+	"shortName": "AP",
+	"longName": "Amapá"
 },
      {
-	"ID": "5",
-	"Sigla": "BA",
-	"Nome": "Bahia"
+	"id": "5",
+	"shortName": "BA",
+	"longName": "Bahia"
 },
      {
-	"ID": "6",
-	"Sigla": "CE",
-	"Nome": "Ceará"
+	"id": "6",
+	"shortName": "CE",
+	"longName": "Ceará"
 },
      {
-	"ID": "7",
-	"Sigla": "DF",
-	"Nome": "Distrito Federal"
+	"id": "7",
+	"shortName": "DF",
+	"longName": "Distrito Federal"
 },
      {
-	"ID": "8",
-	"Sigla": "ES",
-	"Nome": "Espírito Santo"
+	"id": "8",
+	"shortName": "ES",
+	"longName": "Espírito Santo"
 },
      {
-	"ID": "9",
-	"Sigla": "GO",
-	"Nome": "Goiás"
+	"id": "9",
+	"shortName": "GO",
+	"longName": "Goiás"
 },
      {
-	"ID": "10",
-	"Sigla": "MA",
-	"Nome": "Maranhão"
+	"id": "10",
+	"shortName": "MA",
+	"longName": "Maranhão"
 },
      {
-	"ID": "11",
-	"Sigla": "MG",
-	"Nome": "Minas Gerais"
+	"id": "11",
+	"shortName": "MG",
+	"longName": "Minas Gerais"
 },
      {
-	"ID": "12",
-	"Sigla": "MS",
-	"Nome": "Mato Grosso do Sul"
+	"id": "12",
+	"shortName": "MS",
+	"longName": "Mato Grosso do Sul"
 },
      {
-	"ID": "13",
-	"Sigla": "MT",
-	"Nome": "Mato Grosso"
+	"id": "13",
+	"shortName": "MT",
+	"longName": "Mato Grosso"
 },
      {
-	"ID": "14",
-	"Sigla": "PA",
-	"Nome": "Pará"
+	"id": "14",
+	"shortName": "PA",
+	"longName": "Pará"
 },
      {
-	"ID": "15",
-	"Sigla": "PB",
-	"Nome": "Paraíba"
+	"id": "15",
+	"shortName": "PB",
+	"longName": "Paraíba"
 },
      {
-	"ID": "16",
-	"Sigla": "PE",
-	"Nome": "Pernambuco"
+	"id": "16",
+	"shortName": "PE",
+	"longName": "Pernambuco"
 },
      {
-	"ID": "17",
-	"Sigla": "PI",
-	"Nome": "Piauí"
+	"id": "17",
+	"shortName": "PI",
+	"longName": "Piauí"
 },
      {
-	"ID": "18",
-	"Sigla": "PR",
-	"Nome": "Paraná"
+	"id": "18",
+	"shortName": "PR",
+	"longName": "Paraná"
 },
      {
-	"ID": "19",
-	"Sigla": "RJ",
-	"Nome": "Rio de Janeiro"
+	"id": "19",
+	"shortName": "RJ",
+	"longName": "Rio de Janeiro"
 },
      {
-	"ID": "20",
-	"Sigla": "RN",
-	"Nome": "Rio Grande do Norte"
+	"id": "20",
+	"shortName": "RN",
+	"longName": "Rio Grande do Norte"
 },
      {
-	"ID": "21",
-	"Sigla": "RO",
-	"Nome": "Rondônia"
+	"id": "21",
+	"shortName": "RO",
+	"longName": "Rondônia"
 },
      {
-	"ID": "22",
-	"Sigla": "RR",
-	"Nome": "Roraima"
+	"id": "22",
+	"shortName": "RR",
+	"longName": "Roraima"
 },
      {
-	"ID": "23",
-	"Sigla": "RS",
-	"Nome": "Rio Grande do Sul"
+	"id": "23",
+	"shortName": "RS",
+	"longName": "Rio Grande do Sul"
 },
      {
-	"ID": "24",
-	"Sigla": "SC",
-	"Nome": "Santa Catarina"
+	"id": "24",
+	"shortName": "SC",
+	"longName": "Santa Catarina"
 },
      {
-	"ID": "25",
-	"Sigla": "SE",
-	"Nome": "Sergipe"
+	"id": "25",
+	"shortName": "SE",
+	"longName": "Sergipe"
 },
      {
-	"ID": "26",
-	"Sigla": "SP",
-	"Nome": "São Paulo"
+	"id": "26",
+	"shortName": "SP",
+	"longName": "São Paulo"
 },
      {
-	"ID": "27",
-	"Sigla": "TO",
-	"Nome": "Tocantins"
+	"id": "27",
+	"shortName": "TO",
+	"longName": "Tocantins"
 }]
